@@ -2,7 +2,7 @@
   <h2> Hello! my name is Matheus Dominguez . <img src="https://github.com/oidominguez/oidominguez/blob/main/Hi.gif" width="25"></h2>
 </div>
 
-<div style="display: flex">
+<div style="display: flex" width="100%">
   <div>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oidominguez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
