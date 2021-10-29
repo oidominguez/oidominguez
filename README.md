@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-## Welcome to my Github, here you will learn a little about me and my work. Feel free to contact me for more information.
-
 <h2 align="center">About me</h2>
 <div align="center">
 My name is Matheus Dominguez, I'm 19 years old and I live in Rio de Janeiro - RJ.
