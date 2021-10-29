@@ -6,7 +6,7 @@
 
 <h2 align="center">About me</h2>
 <div align="center">
-My name is Matheus Dominguez, I'm 19 years old and I live in Rio de Janeiro - RJ.
+My name is Matheus Dominguez, I'm 20 years old and I live in Rio de Janeiro - RJ.
 
 I'm a Front-end web developer, that is, a graphical user interface developer for a website, using HTML, CSS and JavaScript languages.
 
