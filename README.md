@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=36&center=true&vCenter=true&width=850&height=50&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Matheus+Dominguez+👋">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=36&center=true&vCenter=true&width=850&height=50&lines=Hello!+My+name+is+Matheus+Dominguez+👋">
   </a>
 </h1>
 
-<h2 align="center">Meus status</h2>
+<h2 align="center">Stats</h2>
 <br>
 <p align=center>
   <div align=center>
