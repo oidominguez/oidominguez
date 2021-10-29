@@ -5,6 +5,7 @@
 </h1>
 
 <h2 align="center">About me</h2>
+<div text-align="center">
 My name is Matheus Dominguez, I'm 19 years old and I live in Rio de Janeiro - RJ.
 
 I'm a Front-end web developer, that is, a graphical user interface developer for a website, using HTML, CSS and JavaScript languages.
@@ -12,7 +13,9 @@ I'm a Front-end web developer, that is, a graphical user interface developer for
 I've been on this journey for approximately 1 year, and programming was never a professional goal, but a "hobby" in my life that I developed over time.
 
 I've never taken a specific course, all my knowledge was acquired through curiosity, researching, watching videos, reading forums and asking questions with more experienced people than me.
-
+</div>
+  
+  
 <h2 align="center">Stats</h2>
 <br>
 <p align=center>
