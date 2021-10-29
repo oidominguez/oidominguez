@@ -35,6 +35,6 @@ I've never taken a specific course, all my knowledge was acquired through curios
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=oidominguez&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img href="#" width="100%"/>
 </p>
 
