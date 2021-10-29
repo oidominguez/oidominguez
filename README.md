@@ -9,8 +9,7 @@
 ```css
 #oidominguez { 
   display: boy;
-  height: 168cm; 
-  color: white;
+  height: 168cm;
   position: Brazil;
 }
 ```
