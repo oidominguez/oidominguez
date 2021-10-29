@@ -15,6 +15,7 @@ I've been on this journey for approximately 1 year, and programming was never a 
 I've never taken a specific course, all my knowledge was acquired through curiosity, researching, watching videos, reading forums and asking questions with more experienced people than me.
 </div>
   
+  <br>
   
 <h2 align="center">Stats</h2>
 <br>
