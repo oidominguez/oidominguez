@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+<marquee direction = "right">Instagram: @oidominguez</marquee>
+
 <h2 align="center">About me</h2>
 
 ```css
