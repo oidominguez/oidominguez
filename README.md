@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center">About me</h2>
-<div align="justify">
+
 ```css
 #oidominguez { 
   display: boy;
@@ -14,6 +14,8 @@
   position: Brazil;
 }
 ```
+
+<div align="justify">
   
 My name is Matheus Dominguez, I'm 20 years old and I live in Rio de Janeiro - RJ.
 
