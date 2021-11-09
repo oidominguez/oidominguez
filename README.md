@@ -31,7 +31,7 @@ I've never taken a specific course, all my knowledge was acquired through curios
 <br>
 <p align=center>
   <div align=center>
-    <a href="#">
+    <a href="https://oidominguez.dev/" target="_blank">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=oidominguez&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://oidominguez.dev/" target="_blank">
