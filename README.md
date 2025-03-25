@@ -1,51 +1,40 @@
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=36&center=true&vCenter=true&width=850&height=50&lines=Hello!+My+name+is+Matheus+Dominguez+👋">
-  </a>
-</h1>
+### Hi there 👋
 
-<h2 align="center">About me</h2>
+- 🔭 I'm a **full-stack developer** with a passion for frontend development!
+- 💼 Founder of **[Wise Codes](https://www.wisecodes.com.br/)**.
+- 💖 I love working with **React.js, Next.js, TailwindCSS**, and other modern frontend technologies.
+- ✨ Currently working as a developer at **[Spike Up Media](https://www.spikeup.com/)**!
 
-```css
-#oidominguez { 
-  display: boy;
-  height: 168cm;
-  position: Brazil;
-}
-```
+### 📌 Programming Languages & Technologies
 
-<div align="justify">
-  
-My name is Matheus Dominguez, I'm 20 years old and I live in Rio de Janeiro - RJ.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-I'm a web developer, specialized in the Front-end area and currently I've been delving into the Back-end.
+### 🎆 Frameworks, Platforms, and Libraries
 
-I've been on this journey for approximately 4 years, and programming has never been a professional goal, but rather a “hobby” in my life that I've developed over time.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-I never took a specific course, all my knowledge was acquired through curiosity, researching, watching videos, reading forums and asking questions with people more experienced than me.
-</div>
-  
-  <br>
-  
-<h2 align="center">Stats</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://oidominguez.dev/">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=oidominguez&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://oidominguez.dev/">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=oidominguez&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://oidominguez.dev/">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oidominguez&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br>
-  <a href="https://oidominguez.dev/">
-  <img src="https://activity-graph.herokuapp.com/graph?username=oidominguez&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  </a>
-  </p>
+### 📄 IDEs/Editors, Tools, and Platforms
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Coda.io](https://img.shields.io/badge/Coda.io-FF6B6B?style=for-the-badge&logo=Coda.io&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+### 🚀 Version Control, Hostings, Servers
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
+
+### 🥰 Linters
+
+![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
