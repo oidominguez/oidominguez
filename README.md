@@ -3,7 +3,7 @@
 - 🔭 I'm a **full-stack developer** with a passion for frontend development!
 - 💼 Founder of **[Wise Codes](https://www.wisecodes.com.br/)**.
 - 💖 I love working with **React.js, Next.js, TailwindCSS**, and other modern frontend technologies.
-- ✨ Currently working as a developer at **[Spike Up Media](https://www.spikeup.com/)** and **[ADC][https://adistributioncompany.com/]**!
+- ✨ Currently working as a developer at **[Spike Up Media](https://www.spikeup.com/)** and **[ADC](https://adistributioncompany.com/)**!
 
 ### 📌 Programming Languages & Technologies
 
